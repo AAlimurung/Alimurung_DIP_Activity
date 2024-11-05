@@ -1,0 +1,17 @@
+D:\VSC\DigitalImageProcessing\bin\Debug\net8.0-windows\DIP Activity.exe
+D:\VSC\DigitalImageProcessing\bin\Debug\net8.0-windows\DIP Activity.deps.json
+D:\VSC\DigitalImageProcessing\bin\Debug\net8.0-windows\DIP Activity.runtimeconfig.json
+D:\VSC\DigitalImageProcessing\bin\Debug\net8.0-windows\DIP Activity.dll
+D:\VSC\DigitalImageProcessing\bin\Debug\net8.0-windows\DIP Activity.pdb
+D:\VSC\DigitalImageProcessing\obj\Debug\net8.0-windows\DIP_Activity.Form1.resources
+D:\VSC\DigitalImageProcessing\obj\Debug\net8.0-windows\DIP Activity.csproj.GenerateResource.cache
+D:\VSC\DigitalImageProcessing\obj\Debug\net8.0-windows\DIP Activity.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSC\DigitalImageProcessing\obj\Debug\net8.0-windows\DIP Activity.AssemblyInfoInputs.cache
+D:\VSC\DigitalImageProcessing\obj\Debug\net8.0-windows\DIP Activity.AssemblyInfo.cs
+D:\VSC\DigitalImageProcessing\obj\Debug\net8.0-windows\DIP Activity.csproj.CoreCompileInputs.cache
+D:\VSC\DigitalImageProcessing\obj\Debug\net8.0-windows\DIP Activity.sourcelink.json
+D:\VSC\DigitalImageProcessing\obj\Debug\net8.0-windows\DIP Activity.dll
+D:\VSC\DigitalImageProcessing\obj\Debug\net8.0-windows\refint\DIP Activity.dll
+D:\VSC\DigitalImageProcessing\obj\Debug\net8.0-windows\DIP Activity.pdb
+D:\VSC\DigitalImageProcessing\obj\Debug\net8.0-windows\DIP Activity.genruntimeconfig.cache
+D:\VSC\DigitalImageProcessing\obj\Debug\net8.0-windows\ref\DIP Activity.dll
